@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=ans\ possible
+comment0.target=MC(java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ constructor,\ takes\ in\ two\ Strings\ for\ arguments\r\n
+comment1.params=
+comment1.target=void\ printAnswer()
+comment1.text=\r\n\ displays\ the\ answer\r\n
+comment2.params=
+comment2.target=void\ possibleAnswer()
+comment2.text=\r\n\ displays\ all\ possible\ answers\ for\ the\ question\r\n
+numComments=3

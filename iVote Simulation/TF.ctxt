@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=ans
+comment0.target=TF(java.lang.String)
+comment0.text=\r\n\ constructor\ for\ TF,\ takes\ in\ the\ answer\ to\ a\ particular\ question\ as\ an\ argument\r\n
+comment1.params=
+comment1.target=void\ printAnswer()
+comment1.text=\r\n\ displays\ the\ answer\ to\ the\ question\r\n
+comment2.params=
+comment2.target=void\ possibleAnswer()
+comment2.text=\r\n\ displays\ list\ of\ possible\ answers\r\n
+numComments=3

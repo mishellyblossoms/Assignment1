@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=id\ ans
+comment0.target=Student(int,\ java.lang.String)
+comment0.text=\r\n\ constructor\ for\ objects\ of\ class\ Student.\ constructor\ take\ in\ and\ int\ and\ a\ String.\r\n
+comment1.params=
+comment1.target=java.lang.String\ getAnswer()
+comment1.text=\r\n\ returns\ the\ Student's\ answer.\r\n
+comment2.params=
+comment2.target=int\ getStudentId()
+comment2.text=\r\n\ returns\ the\ Student's\ ID.\r\n
+comment3.params=ans
+comment3.target=void\ setAnswer(java.lang.String)
+comment3.text=\r\n\ returns\ the\ Student's\ answer\r\n
+numComments=4

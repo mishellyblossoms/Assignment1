@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Class()
+comment0.text=\r\n\ contructor.\r\n
+comment1.params=id\ ans
+comment1.target=void\ add(int,\ java.lang.String)
+comment1.text=\r\n\ adds\ a\ new\ Student\ with\ ID\ and\ answer\ into\ the\ set.\ Will\ not\ update\ an\ existing\ Student's\ answer.\ \r\n
+comment2.params=
+comment2.target=int\ getSize()
+comment2.text=\r\n\ returns\ the\ size.\ it\ was\ used\ in\ checking\ the\ program\ for\ errors\r\n
+comment3.params=
+comment3.target=int[]\ populateTracking()
+comment3.text=\r\n\ counts\ the\ number\ of\ each\ type\ of\ answer\r\n
+numComments=4

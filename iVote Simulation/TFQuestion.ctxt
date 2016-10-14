@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=q
+comment0.target=TFQuestion(java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ MCQuestion\r\n
+comment1.params=
+comment1.target=void\ printQuestion()
+comment1.text=\r\n\ displays\ the\ question\r\n
+numComments=2

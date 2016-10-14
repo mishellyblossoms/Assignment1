@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=q\ a
+comment0.target=Pair(Question,\ Answer)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Pair\r\n
+comment1.params=
+comment1.target=Question\ getQuestion()
+comment1.text=\r\n\ returns\ the\ Question\r\n
+comment2.params=
+comment2.target=Answer\ getAnswer()
+comment2.text=\r\n\ returns\ the\ Answer\r\n
+numComments=3

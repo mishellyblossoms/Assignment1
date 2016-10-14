@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SimulationDriver()
+comment0.text=\r\n\ Constructor\ for\ SimulationDriver\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ For\ running\ the\ simulations\r\n
+comment2.params=
+comment2.target=void\ run00()
+comment2.text=\r\n\ The\ first\ simulation\ of\ iVote\r\n
+comment3.params=
+comment3.target=void\ run01()
+comment3.text=\r\n\ The\ second\ simulation\ of\ iVote\r\n
+numComments=4
